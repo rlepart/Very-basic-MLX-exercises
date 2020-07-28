@@ -1,0 +1,2 @@
+Si, lors des exercices précédents, vous n'avez utilisé que 'mlx_pixel_put' afin de modifier les couleurs, refaire l'exercice 5 sans l'utiliser (un grand nombre d'appels à la fonction 'mlx_pixel_put' est plus lent que de modifier une image de la même taille puis l'afficher d'un seul bloc).
+Sinon, passez à l'exercice suivant.

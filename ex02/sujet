@@ -1,0 +1,1 @@
+Modifier le programme précédent de sorte qu'à l'aide de la fonction 'mlx_key_hook', lorsque la touche 'Q' du clavier est pressée, la fenêtre précédement créée est fermée et le programme quitté "proprement".

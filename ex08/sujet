@@ -1,0 +1,3 @@
+À partir du programme créé dans l'exercice 7, faire en sorte que, lorsque l'une des flèche du clavier est pressée, l'image est déplacée d'un pixel dans la direction de la flèche (Attention à mettre une sécurité pour ne pas que le carré sorte de la fenêtre et bien penser à effacer l'endroit où le carré n'est plus).
+
+Comme vous l'avez peut-être remarqué, la fonction 'mlx_key_hook' ne détecte que lorsque la touche est relachée, c'est pas très pratique pour déplacer l'image sur de longues distances..
